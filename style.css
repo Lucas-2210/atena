@@ -1,0 +1,132 @@
+body{
+    background-color: #8a1515;
+  
+}
+#atena{border: 10px solid #EEB741;
+    background: #2F0000; 
+   color:#ffffff;
+    width: 100%;
+   height: 178px;
+   display: flex;
+   justify-content: center;
+   font-size: 35px;
+   flex-shrink: 0;
+}
+#Deusa{
+    margin-top: 25px;
+    margin-right: 650px;
+}
+.quem{
+    display: flex;
+    justify-content: space-around;
+    font-size: 35px;
+    color:#ffffff;
+    border: 10px solid black;
+}
+. p{
+ quem   width: 30%;
+}
+#fotos2{
+    height: 180px;
+    width: 300px;
+    
+}
+#atena{
+    display: flex;
+    justify-content: space-between;
+}
+#imagens{
+    border: 10px solid black;
+}
+
+.linha{
+    display: flex;
+}
+.width40{
+    width: 40%;
+}
+#imagem3{
+    height: 400px;
+    width: 295px;
+}
+.media{
+    font-size: 25px !important;
+}
+.media p{
+    width: 50% !important;
+}
+#texto{
+    width: 1500px;
+    height: 620px;
+    color: #ffffff;
+    font-size: 30px;
+    border: 20px solid black;
+}
+#imagem4{
+    width: 1250px;
+    height: 350px;
+    margin-block-end: 10px;
+}
+#texto2{
+    color: #ffffff;
+    font-size: 30px;
+    border:20px solid black;
+    height: 900px;
+    margin-right: -20px;
+}
+#imagem5{
+    margin-left:65px ;
+    width: 400px;
+    height: 500px;
+}
+#texto3{
+    border: 20px solid black;
+    height: 732px;
+    width: 1300px;
+}
+#imagem6{
+    margin-left: 600px;
+    height: 500px;
+}
+#linha2{
+    border:10px solid black;
+    background-color: #DEAD00;
+    width: 100%;
+    height: 178px;
+    display: flex;
+    justify-content: center;
+    font-size: 35px;
+    flex-shrink: 0;
+}
+#filme{
+    color: #ffffff;
+}
+#texto4{
+    border: 20px solid black;
+    color: #ffffff;
+    font-size: 30px;
+    height: 700px;
+    width: 1900px;
+    margin-left: x ;
+}
+#linha3{
+    background-color: #DEAD00;
+    width: 400px;
+    height: 1400px;
+    margin-left: 720px;
+    margin-top: -20px;
+}
+#imagemauto{
+    color: #ffffff;
+    font-size: 40px;
+    margin-left: 125px;
+}
+#imagem7{
+    margin-left: 50px;
+}
+#imagem8{
+    margin-left: 600px;
+    border: 10px solid black;
+    width: 660px;
+    margin-top: -550px;
+}
